@@ -1,0 +1,7 @@
+{
+    "server": "0.0.0.0",
+    "server_port": 8388,
+    "password": "XGQRyJ3jLGumnGGkWsALWozv",
+    "method": "aes-256-cfb",
+    "timeout": 300
+}
